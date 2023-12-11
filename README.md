@@ -4,11 +4,15 @@
 
 
 ## Updates December:
+
+### Root:
 1. Template Import and Initial Setup
 2. Changed URL
 3. removed login block
-4. Cool 3D hover Effect on menu
-5. Header Changes
-6. header to 1440px
-7. Bolder and more pronounced font
-8. 
+
+### Header:
+1. Cool 3D hover Effect on menu
+2. Header Changes
+3. header to 1440px
+4. Bolder and more pronounced font
+5. 
