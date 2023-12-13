@@ -7,7 +7,7 @@ This document aims to track changes on the website
 
 ## Updates December:
 
-### Main:
+### Site:
 1. Template Import and Initial Setup
 2. Changed URL
 3. removed login block
@@ -23,6 +23,11 @@ This document aims to track changes on the website
 7. Added Search Input
 8. Added AJAX Search
 9. To Cart URL
+    
+### Home Page
+1. Template Import
+2. 
+
 
 ### Cart Page
 1. Template Import
