@@ -7,7 +7,7 @@ This document aims to track changes on the website
 
 ## Updates December:
 
-### Root:
+### Main:
 1. Template Import and Initial Setup
 2. Changed URL
 3. removed login block
