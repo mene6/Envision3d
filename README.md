@@ -1,6 +1,7 @@
 # Envision3d
 ### Envision3d Update Tracker
-[Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
+
+##[Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
 
 
 ## Updates December:
@@ -15,4 +16,11 @@
 2. Header Changes
 3. header to 1440px
 4. Bolder and more pronounced font
-5. 
+5. Search field
+6. Layout changes reflecting Colossal's Designs
+7. Added Searcg Input
+8. Added AJAX Search
+9. 
+
+
+
