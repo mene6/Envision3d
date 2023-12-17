@@ -2,10 +2,12 @@
 ### Envision3d Update Tracker
 This document aims to track changes on the website
 
+
+
+## Updates December
 ### [Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
 
-## Updates December:
-# Global Changes and Template Parts
+# Global Changes
 
 ### Universal:
 1. Template Import and Initial Setup
@@ -21,9 +23,15 @@ This document aims to track changes on the website
 5. Search field
 6. Layout changes reflecting Colossal's Designs
 7. Added Search Input
-8. Added AJAX Search
-9. To Cart URL
+8. Search field styling
+9. Added AJAX Search
+10. To Cart URL
+11. Less rounding overall
+12. 
 
+### Footer:
+1. Logo updated
+2. 
 
 # Templates
     
@@ -34,7 +42,10 @@ This document aims to track changes on the website
 ### Blog Page
 1. Randomised Blog Function
 2. Single Blog Layout
-3. 
+3. Fonts
+4. Post Meta (Author and Date (date readable formatting))
+5. Sample Blogpost (Stable Diffusion Sample post)
+6. 
 
 
 ### Cart Page
