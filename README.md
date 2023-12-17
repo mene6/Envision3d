@@ -28,6 +28,11 @@ This document aims to track changes on the website
 1. Template Import
 2. 
 
+### Blog Page
+1. Randomised Blog Function
+2. Single Blog Layout
+3. 
+
 
 ### Cart Page
 1. Template Import
