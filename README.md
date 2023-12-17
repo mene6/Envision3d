@@ -4,10 +4,12 @@ This document aims to track changes on the website
 
 ### [Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
 
-
 ## Updates December:
 
-### Site:
+
+# Global Changes and Template Parts
+
+### Universal:
 1. Template Import and Initial Setup
 2. Changed URL
 3. removed login block
@@ -23,6 +25,9 @@ This document aims to track changes on the website
 7. Added Search Input
 8. Added AJAX Search
 9. To Cart URL
+
+
+# Templates
     
 ### Home Page
 1. Template Import
