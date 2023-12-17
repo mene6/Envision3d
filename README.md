@@ -5,8 +5,6 @@ This document aims to track changes on the website
 ### [Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
 
 ## Updates December:
-
-
 # Global Changes and Template Parts
 
 ### Universal:
