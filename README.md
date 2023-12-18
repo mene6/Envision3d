@@ -1,7 +1,7 @@
 # Envision3d
 ### Envision3d Update Tracker
 This document aims to track changes on the website
-Last Updated: **18 December**
+`Last Updated: **18th of December**`
 
 
 ### [Website Location](https://cravingclicks.dev/Envision3d/ "Track Changes")
