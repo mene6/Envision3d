@@ -2,7 +2,7 @@
 ### PRISTINE Update Tracker
 This document aims to track changes on the website
 
-`Last Updated: 18th of December`
+`Last Updated: 20th of December`
 
 ### [Website Location](https://thatspristine.com "Track Changes")
 
