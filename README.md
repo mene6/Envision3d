@@ -13,6 +13,7 @@ This document aims to track changes on the website
 2. Changed URL
 3. removed login block
 4. New User
+5. moved to new location: (thatspristine.com)
 
 ### Header:
 1. Cool 3D hover Effect on menu
