@@ -27,7 +27,7 @@ This document aims to track changes on the website
 9. Added AJAX Search
 10. To Cart URL
 11. Less rounding overall
-12. 
+12. Logo Updates (pristine)
 
 ### Footer:
 1. Logo updated
