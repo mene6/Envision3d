@@ -2,7 +2,7 @@
 ### PRISTINE Update Tracker
 This document aims to track changes on the website
 
-`Last Updated: 20th of December`
+`Last Updated: 23th of December`
 
 ### [Website Location](https://thatspristine.com "Track Changes")
 
@@ -32,6 +32,11 @@ This document aims to track changes on the website
 ### Footer:
 1. Logo updated
 2. 
+
+### Blog Posts
+1. Ghibli inspired landscaping workflow
+2. Realistic cartoon flow with controlnet
+3. 
 
 # Templates
     
