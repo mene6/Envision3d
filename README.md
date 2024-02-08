@@ -2,7 +2,7 @@
 ### PRISTINE Update Tracker
 This document aims to track changes on the website
 
-`Last Updated: 23th of December`
+`Last Updated: 2nd of Februari`
 
 ### [Website Location](https://thatspristine.com "Track Changes")
 
@@ -62,4 +62,7 @@ This document aims to track changes on the website
 1. Template Import
 2. 
 
+### Roadmap:
+1. Write Blog about topology (tips and tricks for building clean topology and rigging characters)
+2. 
 
