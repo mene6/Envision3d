@@ -14,7 +14,7 @@ This document aims to track changes on the website
 3. removed login block
 4. New User
 5. moved to new location: (thatspristine.com)
-6. Support for ComfyUI Frontend Graph preview if posts contain workflow file download (50% done).
+6. Support for ComfyUI Frontend Graph preview if posts contain workflow file download (done).
 
 ### Header:
 1. Cool 3D hover Effect on menu
