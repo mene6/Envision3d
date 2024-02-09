@@ -52,6 +52,7 @@ This document aims to track changes on the website
 4. Post Meta (Author and Date (date readable formatting))
 5. Sample Blogpost (Stable Diffusion Sample post)
 6. Bypass litegraph on posts without json workflow
+7. created repository for litegraph implementation version control
 
 
 ### Cart Page
