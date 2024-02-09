@@ -2,7 +2,7 @@
 ### PRISTINE Update Tracker
 This document aims to track changes on the website
 
-`Last Updated: 6th of Februari`
+`Last Updated: 9th of Februari`
 
 ### [Website Location](https://thatspristine.com "Track Changes")
 
@@ -51,7 +51,7 @@ This document aims to track changes on the website
 3. Fonts
 4. Post Meta (Author and Date (date readable formatting))
 5. Sample Blogpost (Stable Diffusion Sample post)
-6. 
+6. Bypass litegraph on posts without workflow
 
 
 ### Cart Page
