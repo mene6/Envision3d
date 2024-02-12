@@ -63,7 +63,8 @@ This document aims to track changes on the website
 1. Template Import
 2. 
 
-### Roadmap:
+# Roadmap:
+
 1. Write Blog about topology (tips and tricks for building clean topology and rigging characters)
 2. Fix Homepage for new website purpose
 3. create archive pages templates
