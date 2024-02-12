@@ -32,7 +32,7 @@ This document aims to track changes on the website
 
 ### Footer:
 1. New footer logo
-2. 
+2. Copyright text updated
 
 ### Blog Posts
 1. Ghibli inspired landscaping workflow
