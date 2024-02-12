@@ -65,5 +65,10 @@ This document aims to track changes on the website
 
 ### Roadmap:
 1. Write Blog about topology (tips and tricks for building clean topology and rigging characters)
-2. 
+2. Fix Homepage for new website purpose
+3. create archive pages templates
+4. create portfolio type templates
+5. create single portfolio page templates
+6. Hook up lead form
+7. Persistent CTA to lead form 
 
