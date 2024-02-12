@@ -71,5 +71,7 @@ This document aims to track changes on the website
 4. create portfolio type templates
 5. create single portfolio page templates
 6. Hook up lead form
-7. Persistent CTA to lead form 
-
+7. Persistent CTA to lead form
+8. Blog About Unreal Shaders (Guilty Gear Style Shading in UE5)
+9. Blog About Replacing your DCC with Blender, How to approach re-learning a DCC for experienced users.
+10. 
