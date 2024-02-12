@@ -31,7 +31,7 @@ This document aims to track changes on the website
 12. Logo Updates (pristine)
 
 ### Footer:
-1. Logo updated
+1. New footer logo
 2. 
 
 ### Blog Posts
