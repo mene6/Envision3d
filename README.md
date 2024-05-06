@@ -1,5 +1,7 @@
 # That's PRISTINE!
+
 ### PRISTINE Update Tracker
+
 This document aims to track changes on the website
 
 `Last Updated: 6th of Februari`
@@ -8,7 +10,18 @@ This document aims to track changes on the website
 
 # Global Changes
 
+Working on finalizing website and make it production ready.
+
+### Roadmap:
+
+Proceeding with the project, taking another direction to ensure something useful will be made in the next month, The purpose of the site is fully shifting from blog to a project highlight and lead funnel.
+
+Multi-user: removing
+Posts: removing
+Products: removing
+
 ### Universal:
+
 1. Template Import and Initial Setup
 2. Changed URL
 3. removed login block
@@ -17,6 +30,7 @@ This document aims to track changes on the website
 6. Support for ComfyUI Frontend Graph preview if posts contain workflow file download (50% done).
 
 ### Header:
+
 1. Cool 3D hover Effect on menu
 2. Header Changes
 3. header to 1440px
@@ -31,38 +45,38 @@ This document aims to track changes on the website
 12. Logo Updates (pristine)
 
 ### Footer:
+
 1. Logo updated
-2. 
+2.
 
 ### Blog Posts
+
 1. Ghibli inspired landscaping workflow
 2. Realistic cartoon flow with controlnet
-3. 
+3.
 
 # Templates
-    
+
 ### Home Page
+
 1. Template Import
-2. 
+2.
 
 ### Blog Page
+
 1. Randomised Blog Function
 2. Single Blog Layout
 3. Fonts
 4. Post Meta (Author and Date (date readable formatting))
 5. Sample Blogpost (Stable Diffusion Sample post)
-6. 
-
+6.
 
 ### Cart Page
+
 1. Template Import
-2. 
+2.
 
 ### Contact Page
+
 1. Template Import
-2. 
-
-### Roadmap:
-1. Write Blog about topology (tips and tricks for building clean topology and rigging characters)
-2. 
-
+2.
