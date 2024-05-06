@@ -4,7 +4,7 @@
 
 This document aims to track changes on the website
 
-`Last Updated: 6th of Februari`
+`Last Updated: 11th of Februari`
 
 ### [Website Location](https://thatspristine.com "Track Changes")
 
@@ -27,7 +27,7 @@ Products: removing
 3. removed login block
 4. New User
 5. moved to new location: (thatspristine.com)
-6. Support for ComfyUI Frontend Graph preview if posts contain workflow file download (50% done).
+6. Support for ComfyUI Frontend Graph preview if posts contain workflow file download (done).
 
 ### Header:
 
@@ -45,9 +45,8 @@ Products: removing
 12. Logo Updates (pristine)
 
 ### Footer:
-
 1. Logo updated
-2.
+2. 
 
 ### Blog Posts
 
@@ -69,7 +68,8 @@ Products: removing
 3. Fonts
 4. Post Meta (Author and Date (date readable formatting))
 5. Sample Blogpost (Stable Diffusion Sample post)
-6.
+6. 
+
 
 ### Cart Page
 
@@ -79,4 +79,9 @@ Products: removing
 ### Contact Page
 
 1. Template Import
-2.
+2. 
+
+### Roadmap:
+1. Write Blog about topology (tips and tricks for building clean topology and rigging characters)
+2. 
+
